@@ -1,5 +1,5 @@
 
-# AutoPay Script for ESX
+# Tax Script for ESX
 
 ## Leírás
 Az AutoPay script automatikus banki levonásokat hajt végre a játékosok bankszámlájáról meghatározott időközönként, figyelembe véve a bankszámla egyenlegét és a tulajdonukban lévő járművek számát. A levont összeg egy részét egy frakció számlájára is átutalja.
